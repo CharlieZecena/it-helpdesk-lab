@@ -29,3 +29,4 @@ For the first case, I used one account to act as both the customer and the suppo
 ## Detailed Case Studies
 
 - [Case 1: Connected to Wi-Fi but Unable to Browse Websites](cases/01-dns-connectivity.md)
+- [Case 2: Work Account Lockout After a Password Change](cases/02-account-lockout.md)
