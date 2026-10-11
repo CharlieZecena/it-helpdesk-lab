@@ -65,3 +65,20 @@ I assigned the ticket to myself, communicated with the simulated customer, recor
 ## Scope and Limitations
 
 The Jira ticket workflow was performed hands-on. The Windows diagnostic outputs, configuration changes, verification results, and customer responses were simulated. One account represented both the customer and agent in this first exercise.
+
+## Screenshots
+
+### 1. Original request
+![Original customer request](01-request.png)
+
+### 2. Initial investigation
+![Customer questions and initial investigation](02-initial-investigation.png)
+
+### 3. Diagnosis and simulated fix
+![Diagnostic evidence and simulated fix verification](03-diagnosis-and-fix.png)
+
+### 4. Customer confirmation
+![Customer confirmation and resolution notes](04-customer-confirmation.png)
+
+### 5. Resolved ticket
+![Ticket marked Resolved with resolution Fixed](05-resolved-ticket.png)
